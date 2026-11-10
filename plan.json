@@ -1,0 +1,1472 @@
+[
+ {
+  "date": "2026-09-28",
+  "week": 1,
+  "day": "Lun",
+  "title": "Intervalos 6x400",
+  "type": "intervals",
+  "km": 5.9,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 2000,
+    "fast": 340,
+    "slow": 375,
+    "note": "2km calentamiento"
+   },
+   {
+    "kind": "repeat",
+    "times": 6,
+    "steps": [
+     {
+      "kind": "active",
+      "m": 400,
+      "fast": 250,
+      "slow": 260,
+      "note": "400m a 4:15"
+     },
+     {
+      "kind": "rest",
+      "sec": 90
+     }
+    ]
+   },
+   {
+    "kind": "cooldown",
+    "m": 1500,
+    "fast": 345,
+    "slow": 390,
+    "note": "1.5km enfriamiento"
+   }
+  ],
+  "file": "S01_1Lun_28sep_Intervalos_6x400_workout.fit"
+ },
+ {
+  "date": "2026-09-29",
+  "week": 1,
+  "day": "Mar",
+  "title": "Easy 4km",
+  "type": "easy",
+  "km": 4.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 4000,
+    "fast": 340,
+    "slow": 375,
+    "note": "4km suave"
+   }
+  ],
+  "file": "S01_2Mar_29sep_Easy_4km_workout.fit"
+ },
+ {
+  "date": "2026-09-30",
+  "week": 1,
+  "day": "Mie",
+  "title": "Tempo 2 y 1km",
+  "type": "tempo",
+  "km": 5.5,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "active",
+    "m": 2000,
+    "fast": 285,
+    "slow": 295,
+    "note": "2km a 4:50"
+   },
+   {
+    "kind": "rest",
+    "sec": 90
+   },
+   {
+    "kind": "active",
+    "m": 1000,
+    "fast": 280,
+    "slow": 290,
+    "note": "1km a 4:45"
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S01_3Mie_30sep_Tempo_2_y_1km_workout.fit"
+ },
+ {
+  "date": "2026-10-03",
+  "week": 1,
+  "day": "Sab",
+  "title": "Fondo 7km",
+  "type": "long",
+  "km": 7.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 7000,
+    "fast": 340,
+    "slow": 375,
+    "note": "7km suave"
+   }
+  ],
+  "file": "S01_4Sab_03oct_Fondo_7km_workout.fit"
+ },
+ {
+  "date": "2026-10-05",
+  "week": 2,
+  "day": "Lun",
+  "title": "Intervalos Piramide",
+  "type": "intervals",
+  "km": 6.1,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "active",
+    "m": 400,
+    "fast": 245,
+    "slow": 255,
+    "note": "400m a 4:10"
+   },
+   {
+    "kind": "rest",
+    "sec": 90
+   },
+   {
+    "kind": "active",
+    "m": 800,
+    "fast": 250,
+    "slow": 260,
+    "note": "800m a 4:15"
+   },
+   {
+    "kind": "rest",
+    "sec": 90
+   },
+   {
+    "kind": "active",
+    "m": 1200,
+    "fast": 255,
+    "slow": 265,
+    "note": "1.2km a 4:20"
+   },
+   {
+    "kind": "rest",
+    "sec": 90
+   },
+   {
+    "kind": "active",
+    "m": 800,
+    "fast": 250,
+    "slow": 260,
+    "note": "800m a 4:15"
+   },
+   {
+    "kind": "rest",
+    "sec": 90
+   },
+   {
+    "kind": "active",
+    "m": 400,
+    "fast": 245,
+    "slow": 255,
+    "note": "400m a 4:10"
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S02_1Lun_05oct_Intervalos_Piramide_workout.fit"
+ },
+ {
+  "date": "2026-10-06",
+  "week": 2,
+  "day": "Mar",
+  "title": "Easy 5km",
+  "type": "easy",
+  "km": 5.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 5000,
+    "fast": 340,
+    "slow": 375,
+    "note": "5km suave"
+   }
+  ],
+  "file": "S02_2Mar_06oct_Easy_5km_workout.fit"
+ },
+ {
+  "date": "2026-10-07",
+  "week": 2,
+  "day": "Mie",
+  "title": "Tempo Cruise 3x1.5km",
+  "type": "tempo",
+  "km": 7.0,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "repeat",
+    "times": 3,
+    "steps": [
+     {
+      "kind": "active",
+      "m": 1500,
+      "fast": 285,
+      "slow": 295,
+      "note": "1.5km a 4:50"
+     },
+     {
+      "kind": "rest",
+      "sec": 90
+     }
+    ]
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S02_3Mie_07oct_Tempo_Cruise_3x1.5km_workout.fit"
+ },
+ {
+  "date": "2026-10-10",
+  "week": 2,
+  "day": "Sab",
+  "title": "Fondo 9km",
+  "type": "long",
+  "km": 9.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 9000,
+    "fast": 340,
+    "slow": 375,
+    "note": "9km suave"
+   }
+  ],
+  "file": "S02_4Sab_10oct_Fondo_9km_workout.fit"
+ },
+ {
+  "date": "2026-10-12",
+  "week": 3,
+  "day": "Lun",
+  "title": "Intervalos 5x800",
+  "type": "intervals",
+  "km": 6.5,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "repeat",
+    "times": 5,
+    "steps": [
+     {
+      "kind": "active",
+      "m": 800,
+      "fast": 250,
+      "slow": 260,
+      "note": "800m a 4:15"
+     },
+     {
+      "kind": "rest",
+      "sec": 90
+     }
+    ]
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S03_1Lun_12oct_Intervalos_5x800_workout.fit"
+ },
+ {
+  "date": "2026-10-13",
+  "week": 3,
+  "day": "Mar",
+  "title": "Easy 5km",
+  "type": "easy",
+  "km": 5.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 5000,
+    "fast": 340,
+    "slow": 375,
+    "note": "5km suave"
+   }
+  ],
+  "file": "S03_2Mar_13oct_Easy_5km_workout.fit"
+ },
+ {
+  "date": "2026-10-14",
+  "week": 3,
+  "day": "Mie",
+  "title": "Tempo 2-2-1",
+  "type": "tempo",
+  "km": 7.5,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "active",
+    "m": 2000,
+    "fast": 285,
+    "slow": 295,
+    "note": "2km a 4:50"
+   },
+   {
+    "kind": "rest",
+    "sec": 120
+   },
+   {
+    "kind": "active",
+    "m": 2000,
+    "fast": 280,
+    "slow": 290,
+    "note": "2km a 4:45"
+   },
+   {
+    "kind": "rest",
+    "sec": 90
+   },
+   {
+    "kind": "active",
+    "m": 1000,
+    "fast": 275,
+    "slow": 285,
+    "note": "1km a 4:40"
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S03_3Mie_14oct_Tempo_2-2-1_workout.fit"
+ },
+ {
+  "date": "2026-10-17",
+  "week": 3,
+  "day": "Sab",
+  "title": "Fondo 10km",
+  "type": "long",
+  "km": 10.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 10000,
+    "fast": 340,
+    "slow": 375,
+    "note": "10km suave"
+   }
+  ],
+  "file": "S03_4Sab_17oct_Fondo_10km_workout.fit"
+ },
+ {
+  "date": "2026-10-19",
+  "week": 4,
+  "day": "Lun",
+  "title": "Intervalos 6x300",
+  "type": "intervals",
+  "km": 4.3,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "repeat",
+    "times": 6,
+    "steps": [
+     {
+      "kind": "active",
+      "m": 300,
+      "fast": 240,
+      "slow": 250,
+      "note": "300m a 4:05"
+     },
+     {
+      "kind": "rest",
+      "sec": 90
+     }
+    ]
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S04_1Lun_19oct_Intervalos_6x300_workout.fit"
+ },
+ {
+  "date": "2026-10-20",
+  "week": 4,
+  "day": "Mar",
+  "title": "Easy 4km",
+  "type": "easy",
+  "km": 4.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 4000,
+    "fast": 340,
+    "slow": 375,
+    "note": "4km suave"
+   }
+  ],
+  "file": "S04_2Mar_20oct_Easy_4km_workout.fit"
+ },
+ {
+  "date": "2026-10-21",
+  "week": 4,
+  "day": "Mie",
+  "title": "Ritmo Carrera 3km",
+  "type": "racepace",
+  "km": 5.5,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "active",
+    "m": 3000,
+    "fast": 295,
+    "slow": 305,
+    "note": "3km ritmo carrera"
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S04_3Mie_21oct_Ritmo_Carrera_3km_workout.fit"
+ },
+ {
+  "date": "2026-10-24",
+  "week": 4,
+  "day": "Sab",
+  "title": "Fondo 8km",
+  "type": "long",
+  "km": 8.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 8000,
+    "fast": 340,
+    "slow": 375,
+    "note": "8km suave"
+   }
+  ],
+  "file": "S04_4Sab_24oct_Fondo_8km_workout.fit"
+ },
+ {
+  "date": "2026-10-26",
+  "week": 5,
+  "day": "Lun",
+  "title": "Intervalos 4x1km",
+  "type": "intervals",
+  "km": 6.5,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "repeat",
+    "times": 4,
+    "steps": [
+     {
+      "kind": "active",
+      "m": 1000,
+      "fast": 250,
+      "slow": 260,
+      "note": "1km a 4:15"
+     },
+     {
+      "kind": "rest",
+      "sec": 120
+     }
+    ]
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S05_1Lun_26oct_Intervalos_4x1km_workout.fit"
+ },
+ {
+  "date": "2026-10-27",
+  "week": 5,
+  "day": "Mar",
+  "title": "Easy 6km",
+  "type": "easy",
+  "km": 6.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 6000,
+    "fast": 340,
+    "slow": 375,
+    "note": "6km suave"
+   }
+  ],
+  "file": "S05_2Mar_27oct_Easy_6km_workout.fit"
+ },
+ {
+  "date": "2026-10-28",
+  "week": 5,
+  "day": "Mie",
+  "title": "Tempo Progresivo 5km",
+  "type": "tempo",
+  "km": 7.5,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "active",
+    "m": 2000,
+    "fast": 290,
+    "slow": 300,
+    "note": "2km a 4:55"
+   },
+   {
+    "kind": "active",
+    "m": 2000,
+    "fast": 280,
+    "slow": 290,
+    "note": "2km a 4:45"
+   },
+   {
+    "kind": "active",
+    "m": 1000,
+    "fast": 275,
+    "slow": 285,
+    "note": "1km a 4:40"
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S05_3Mie_28oct_Tempo_Progresivo_5km_workout.fit"
+ },
+ {
+  "date": "2026-10-31",
+  "week": 5,
+  "day": "Sab",
+  "title": "Fondo 13km",
+  "type": "long",
+  "km": 13.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 11000,
+    "fast": 340,
+    "slow": 375,
+    "note": "11km suave"
+   },
+   {
+    "kind": "active",
+    "m": 2000,
+    "fast": 295,
+    "slow": 305,
+    "note": "2km ritmo carrera"
+   }
+  ],
+  "file": "S05_4Sab_31oct_Fondo_13km_workout.fit"
+ },
+ {
+  "date": "2026-11-02",
+  "week": 6,
+  "day": "Lun",
+  "title": "Intervalos Escalera",
+  "type": "intervals",
+  "km": 6.5,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "active",
+    "m": 400,
+    "fast": 240,
+    "slow": 250,
+    "note": "400m a 4:05"
+   },
+   {
+    "kind": "rest",
+    "sec": 90
+   },
+   {
+    "kind": "active",
+    "m": 600,
+    "fast": 245,
+    "slow": 255,
+    "note": "600m a 4:10"
+   },
+   {
+    "kind": "rest",
+    "sec": 90
+   },
+   {
+    "kind": "active",
+    "m": 800,
+    "fast": 250,
+    "slow": 260,
+    "note": "800m a 4:15"
+   },
+   {
+    "kind": "rest",
+    "sec": 90
+   },
+   {
+    "kind": "active",
+    "m": 1000,
+    "fast": 250,
+    "slow": 260,
+    "note": "1km a 4:15"
+   },
+   {
+    "kind": "rest",
+    "sec": 90
+   },
+   {
+    "kind": "active",
+    "m": 1200,
+    "fast": 255,
+    "slow": 265,
+    "note": "1.2km a 4:20"
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S06_1Lun_02nov_Intervalos_Escalera_workout.fit"
+ },
+ {
+  "date": "2026-11-03",
+  "week": 6,
+  "day": "Mar",
+  "title": "Easy 6km",
+  "type": "easy",
+  "km": 6.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 6000,
+    "fast": 340,
+    "slow": 375,
+    "note": "6km suave"
+   }
+  ],
+  "file": "S06_2Mar_03nov_Easy_6km_workout.fit"
+ },
+ {
+  "date": "2026-11-04",
+  "week": 6,
+  "day": "Mie",
+  "title": "Tempo Over-Under",
+  "type": "tempo",
+  "km": 8.5,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "repeat",
+    "times": 3,
+    "steps": [
+     {
+      "kind": "active",
+      "m": 1000,
+      "fast": 295,
+      "slow": 305,
+      "note": "1km OVER a 5:00"
+     },
+     {
+      "kind": "active",
+      "m": 1000,
+      "fast": 275,
+      "slow": 285,
+      "note": "1km UNDER a 4:40"
+     }
+    ]
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S06_3Mie_04nov_Tempo_Over-Under_workout.fit"
+ },
+ {
+  "date": "2026-11-07",
+  "week": 6,
+  "day": "Sab",
+  "title": "Fondo 15km",
+  "type": "long",
+  "km": 15.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 12000,
+    "fast": 340,
+    "slow": 375,
+    "note": "12km suave"
+   },
+   {
+    "kind": "active",
+    "m": 3000,
+    "fast": 295,
+    "slow": 305,
+    "note": "3km ritmo carrera"
+   }
+  ],
+  "file": "S06_4Sab_07nov_Fondo_15km_workout.fit"
+ },
+ {
+  "date": "2026-11-09",
+  "week": 7,
+  "day": "Lun",
+  "title": "Intervalos Drop Set",
+  "type": "intervals",
+  "km": 6.9,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "repeat",
+    "times": 2,
+    "steps": [
+     {
+      "kind": "active",
+      "m": 1000,
+      "fast": 250,
+      "slow": 260,
+      "note": "1km a 4:15"
+     },
+     {
+      "kind": "rest",
+      "sec": 90
+     }
+    ]
+   },
+   {
+    "kind": "repeat",
+    "times": 2,
+    "steps": [
+     {
+      "kind": "active",
+      "m": 800,
+      "fast": 245,
+      "slow": 255,
+      "note": "800m a 4:10"
+     },
+     {
+      "kind": "rest",
+      "sec": 90
+     }
+    ]
+   },
+   {
+    "kind": "repeat",
+    "times": 2,
+    "steps": [
+     {
+      "kind": "active",
+      "m": 400,
+      "fast": 235,
+      "slow": 245,
+      "note": "400m a 4:00"
+     },
+     {
+      "kind": "rest",
+      "sec": 90
+     }
+    ]
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S07_1Lun_09nov_Intervalos_Drop_Set_workout.fit"
+ },
+ {
+  "date": "2026-11-10",
+  "week": 7,
+  "day": "Mar",
+  "title": "Easy 7km",
+  "type": "easy",
+  "km": 7.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 7000,
+    "fast": 340,
+    "slow": 375,
+    "note": "7km suave"
+   }
+  ],
+  "file": "S07_2Mar_10nov_Easy_7km_workout.fit"
+ },
+ {
+  "date": "2026-11-11",
+  "week": 7,
+  "day": "Mie",
+  "title": "Tempo 3-2-1",
+  "type": "tempo",
+  "km": 8.5,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "active",
+    "m": 3000,
+    "fast": 280,
+    "slow": 290,
+    "note": "3km a 4:45"
+   },
+   {
+    "kind": "rest",
+    "sec": 120
+   },
+   {
+    "kind": "active",
+    "m": 2000,
+    "fast": 275,
+    "slow": 285,
+    "note": "2km a 4:40"
+   },
+   {
+    "kind": "rest",
+    "sec": 90
+   },
+   {
+    "kind": "active",
+    "m": 1000,
+    "fast": 270,
+    "slow": 280,
+    "note": "1km a 4:35"
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S07_3Mie_11nov_Tempo_3-2-1_workout.fit"
+ },
+ {
+  "date": "2026-11-14",
+  "week": 7,
+  "day": "Sab",
+  "title": "Fondo 17km",
+  "type": "long",
+  "km": 17.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 13000,
+    "fast": 340,
+    "slow": 375,
+    "note": "13km suave"
+   },
+   {
+    "kind": "active",
+    "m": 4000,
+    "fast": 295,
+    "slow": 305,
+    "note": "4km ritmo carrera"
+   }
+  ],
+  "file": "S07_4Sab_14nov_Fondo_17km_workout.fit"
+ },
+ {
+  "date": "2026-11-16",
+  "week": 8,
+  "day": "Lun",
+  "title": "Intervalos 5x400",
+  "type": "intervals",
+  "km": 4.5,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "repeat",
+    "times": 5,
+    "steps": [
+     {
+      "kind": "active",
+      "m": 400,
+      "fast": 245,
+      "slow": 255,
+      "note": "400m a 4:10"
+     },
+     {
+      "kind": "rest",
+      "sec": 90
+     }
+    ]
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S08_1Lun_16nov_Intervalos_5x400_workout.fit"
+ },
+ {
+  "date": "2026-11-17",
+  "week": 8,
+  "day": "Mar",
+  "title": "Easy 5km",
+  "type": "easy",
+  "km": 5.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 5000,
+    "fast": 340,
+    "slow": 375,
+    "note": "5km suave"
+   }
+  ],
+  "file": "S08_2Mar_17nov_Easy_5km_workout.fit"
+ },
+ {
+  "date": "2026-11-18",
+  "week": 8,
+  "day": "Mie",
+  "title": "Ritmo Carrera 4km",
+  "type": "racepace",
+  "km": 6.5,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "active",
+    "m": 4000,
+    "fast": 295,
+    "slow": 305,
+    "note": "4km ritmo carrera"
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S08_3Mie_18nov_Ritmo_Carrera_4km_workout.fit"
+ },
+ {
+  "date": "2026-11-21",
+  "week": 8,
+  "day": "Sab",
+  "title": "Fondo 12km",
+  "type": "long",
+  "km": 12.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 12000,
+    "fast": 340,
+    "slow": 375,
+    "note": "12km suave"
+   }
+  ],
+  "file": "S08_4Sab_21nov_Fondo_12km_workout.fit"
+ },
+ {
+  "date": "2026-11-23",
+  "week": 9,
+  "day": "Lun",
+  "title": "Intervalos 3x1600",
+  "type": "intervals",
+  "km": 7.3,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "repeat",
+    "times": 3,
+    "steps": [
+     {
+      "kind": "active",
+      "m": 1600,
+      "fast": 255,
+      "slow": 265,
+      "note": "1.6km a 4:20"
+     },
+     {
+      "kind": "rest",
+      "sec": 150
+     }
+    ]
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S09_1Lun_23nov_Intervalos_3x1600_workout.fit"
+ },
+ {
+  "date": "2026-11-24",
+  "week": 9,
+  "day": "Mar",
+  "title": "Easy 7km",
+  "type": "easy",
+  "km": 7.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 7000,
+    "fast": 340,
+    "slow": 375,
+    "note": "7km suave"
+   }
+  ],
+  "file": "S09_2Mar_24nov_Easy_7km_workout.fit"
+ },
+ {
+  "date": "2026-11-25",
+  "week": 9,
+  "day": "Mie",
+  "title": "Tempo 2x3km",
+  "type": "tempo",
+  "km": 8.5,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "repeat",
+    "times": 2,
+    "steps": [
+     {
+      "kind": "active",
+      "m": 3000,
+      "fast": 275,
+      "slow": 285,
+      "note": "3km a 4:40"
+     },
+     {
+      "kind": "rest",
+      "sec": 120
+     }
+    ]
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S09_3Mie_25nov_Tempo_2x3km_workout.fit"
+ },
+ {
+  "date": "2026-11-28",
+  "week": 9,
+  "day": "Sab",
+  "title": "Fondo 19km PICO",
+  "type": "long",
+  "km": 19.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 11000,
+    "fast": 340,
+    "slow": 375,
+    "note": "11km suave"
+   },
+   {
+    "kind": "active",
+    "m": 6000,
+    "fast": 295,
+    "slow": 305,
+    "note": "6km ritmo carrera"
+   },
+   {
+    "kind": "active",
+    "m": 2000,
+    "fast": 340,
+    "slow": 375,
+    "note": "2km suave final"
+   }
+  ],
+  "file": "S09_4Sab_28nov_Fondo_19km_PICO_workout.fit"
+ },
+ {
+  "date": "2026-11-30",
+  "week": 10,
+  "day": "Lun",
+  "title": "Intervalos 5x600",
+  "type": "intervals",
+  "km": 5.5,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "repeat",
+    "times": 5,
+    "steps": [
+     {
+      "kind": "active",
+      "m": 600,
+      "fast": 245,
+      "slow": 255,
+      "note": "600m a 4:10"
+     },
+     {
+      "kind": "rest",
+      "sec": 90
+     }
+    ]
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S10_1Lun_30nov_Intervalos_5x600_workout.fit"
+ },
+ {
+  "date": "2026-12-01",
+  "week": 10,
+  "day": "Mar",
+  "title": "Easy 5km",
+  "type": "easy",
+  "km": 5.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 5000,
+    "fast": 340,
+    "slow": 375,
+    "note": "5km suave"
+   }
+  ],
+  "file": "S10_2Mar_01dic_Easy_5km_workout.fit"
+ },
+ {
+  "date": "2026-12-02",
+  "week": 10,
+  "day": "Mie",
+  "title": "Ritmo Carrera 5km",
+  "type": "racepace",
+  "km": 7.5,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "active",
+    "m": 5000,
+    "fast": 295,
+    "slow": 305,
+    "note": "5km ritmo carrera"
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S10_3Mie_02dic_Ritmo_Carrera_5km_workout.fit"
+ },
+ {
+  "date": "2026-12-05",
+  "week": 10,
+  "day": "Sab",
+  "title": "Fondo 13km",
+  "type": "long",
+  "km": 13.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 10000,
+    "fast": 340,
+    "slow": 375,
+    "note": "10km suave"
+   },
+   {
+    "kind": "active",
+    "m": 3000,
+    "fast": 295,
+    "slow": 305,
+    "note": "3km ritmo carrera"
+   }
+  ],
+  "file": "S10_4Sab_05dic_Fondo_13km_workout.fit"
+ },
+ {
+  "date": "2026-12-07",
+  "week": 11,
+  "day": "Lun",
+  "title": "Intervalos 4x400 activ",
+  "type": "intervals",
+  "km": 4.1,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "repeat",
+    "times": 4,
+    "steps": [
+     {
+      "kind": "active",
+      "m": 400,
+      "fast": 250,
+      "slow": 260,
+      "note": "400m a 4:15"
+     },
+     {
+      "kind": "rest",
+      "sec": 90
+     }
+    ]
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S11_1Lun_07dic_Intervalos_4x400_activ_workout.fit"
+ },
+ {
+  "date": "2026-12-08",
+  "week": 11,
+  "day": "Mar",
+  "title": "Easy 4km",
+  "type": "easy",
+  "km": 4.0,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 4000,
+    "fast": 340,
+    "slow": 375,
+    "note": "4km suave"
+   }
+  ],
+  "file": "S11_2Mar_08dic_Easy_4km_workout.fit"
+ },
+ {
+  "date": "2026-12-09",
+  "week": 11,
+  "day": "Mie",
+  "title": "Ritmo Carrera 2km",
+  "type": "racepace",
+  "km": 4.5,
+  "blocks": [
+   {
+    "kind": "warmup",
+    "m": 1500,
+    "fast": 340,
+    "slow": 375,
+    "note": "1.5km calentamiento"
+   },
+   {
+    "kind": "active",
+    "m": 2000,
+    "fast": 295,
+    "slow": 305,
+    "note": "2km ritmo carrera"
+   },
+   {
+    "kind": "cooldown",
+    "m": 1000,
+    "fast": 345,
+    "slow": 390,
+    "note": "1km enfriamiento"
+   }
+  ],
+  "file": "S11_3Mie_09dic_Ritmo_Carrera_2km_workout.fit"
+ },
+ {
+  "date": "2026-12-12",
+  "week": 11,
+  "day": "Sab",
+  "title": "CARRERA 21K",
+  "type": "race",
+  "km": 21.1,
+  "blocks": [
+   {
+    "kind": "active",
+    "m": 3000,
+    "fast": 300,
+    "slow": 310,
+    "note": "Km 1-3 controlado 5:05"
+   },
+   {
+    "kind": "active",
+    "m": 15000,
+    "fast": 295,
+    "slow": 305,
+    "note": "Km 4-18 a 5:00"
+   },
+   {
+    "kind": "active",
+    "m": 3100,
+    "fast": 290,
+    "slow": 300,
+    "note": "Km 19-21 a 4:55"
+   }
+  ],
+  "file": "S11_4Sab_12dic_CARRERA_21K_workout.fit"
+ }
+]
